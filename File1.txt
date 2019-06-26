@@ -24,3 +24,11 @@ h
 a g
 sd vsd 
 v
+
+class helloGitClass
+{
+	public static void main(String args[])
+		{
+			Sysout("Hello");
+		}
+}
