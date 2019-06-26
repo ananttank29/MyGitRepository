@@ -29,6 +29,6 @@ class helloGitClass
 {
 	public static void main(String args[])
 		{
-			Sysout("Hello");
+			System.ou.println("Hello");
 		}
 }
