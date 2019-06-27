@@ -13,4 +13,9 @@ class helloGitClass
 			helloGitClass obj=new helloGitClass();
 			obj.helloGit();
 		}
+
+	void mybigmethod
+		{
+			sysout("has a mehtod implementation");
+		}
 }
