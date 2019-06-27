@@ -4,17 +4,23 @@ First git project...
 class helloGitClass
 {
 
-	static void helloGit
+
+	public static final void helloGit(String s)
+
 		{
 			sysout("Hello git")
 		}
 	public static void main(String[] args)
 		{
-			helloGit();
+			helloGit("hello");
 		}
 
 	void mybigmethod
 		{
 			sysout("has a mehtod implementation");
+
+			helloGitClass obj=new helloGitClass();
+			obj.helloGit("hello");
+
 		}
 }
