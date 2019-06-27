@@ -1,34 +1,15 @@
 First git project...
-dwedwe 
-fwe fwe
-f we f
-we fwe
-w f
-wef
-ewf
-ew fwe
-f we
-f we
-fwe 
-fwe 
- g
- h
-56 h
-56 h
-56 h
-56 h
-65h 65
-h 
-56 h
-65 
-a g
-sd vsd 
-v
+
 
 class helloGitClass
 {
+
+	void helloGit
+		{
+			sysout("Hello git")
+		}
 	public static void main(String[] args)
 		{
-			System.ou.println("Hello");
+			
 		}
 }
