@@ -15,7 +15,7 @@ class helloGitClass
 			helloGit("hello");
 		}
 
-	void mybigmethod
+	public void mybigmethod
 		{
 			sysout("has a mehtod implementation");
 
