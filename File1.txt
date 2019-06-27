@@ -10,6 +10,7 @@ class helloGitClass
 		}
 	public static void main(String[] args)
 		{
-			
+			helloGitClass obj=new helloGitClass();
+			obj.helloGit();
 		}
 }
