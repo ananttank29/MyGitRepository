@@ -8,7 +8,7 @@ class helloGitClass
 	public static final void helloGit(String s)
 
 		{
-			sysout("Hello git")
+			System.out.println("Hello git")
 		}
 	public static void main(String[] args)
 		{
